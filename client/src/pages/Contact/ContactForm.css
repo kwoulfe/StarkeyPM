@@ -1,0 +1,31 @@
+body {
+  background-color: #f2f2f2;
+}
+
+.contact {
+  background-color: #f2f2f2;
+  padding: 2rem 0 6rem 0;
+}
+
+.form-group {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 1.25em;
+}
+
+#firstName,
+#lastName,
+#email,
+#message {
+  border-radius: 0;
+}
+
+#button {
+  background-color: #f2f2f2;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 1em;
+  font-weight: bold;
+  border: 2px solid black;
+  border-radius: 0;
+  padding-left: 2em;
+  padding-right: 2em;
+}

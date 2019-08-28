@@ -1,0 +1,24 @@
+#jumbo {
+  background-color: #f2f2f2;
+  text-align: center;
+  padding: 3rem 0 3rem 0;
+  margin-bottom: 0;
+}
+
+.mainText {
+  color: #04304e;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 3.75rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.025em;
+}
+
+.text {
+  color: #ed8e1c;
+  font-family: 'Pathway Gothic One', sans-serif;
+  letter-spacing: 0.1em;
+  margin-top: 1em;
+  font-size: 1.25rem;
+  font-weight: 700;
+}
